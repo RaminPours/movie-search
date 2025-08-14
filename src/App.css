@@ -1,0 +1,13 @@
+body{
+  background-color: rgb(231, 243, 243);
+}
+
+input{
+  padding: 10px; 
+  font-size: large;
+  width: 300px;
+}
+
+h1{
+  font-size: 45px;
+}
