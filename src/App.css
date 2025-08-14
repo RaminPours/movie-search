@@ -1,5 +1,5 @@
 body{
-  background-color: rgb(231, 243, 243);
+  background-color: rgb(0, 0, 0);
 }
 
 input{
@@ -8,6 +8,7 @@ input{
   width: 300px;
 }
 
-h1{
-  font-size: 45px;
+h1, h2{
+  font-size: 50px;
+  color: red;
 }

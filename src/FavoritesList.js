@@ -5,7 +5,7 @@ function FavoritesList({ favorites, onRemove }) {
 
   return (
     <div>
-      <h2>⭐💖 Favoriete Films</h2>
+      <h2>💖 Favoriete Films 💝</h2>
       <ul style={{ listStyle: "none", padding: 0, textAlign: "center", width: "35%", margin: "0 auto" }}>
 
         {favorites.map((movie) => 

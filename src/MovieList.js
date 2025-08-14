@@ -6,7 +6,7 @@ function MovieList({ movies, onAdd }) {
 
   return (
     <div>
-      <h2>Zoekresultaten↩</h2>
+      <h2>Zoekresultaten⏬</h2>
 
       <ul style={{ listStyle: "none", padding: 0, border: "1px solid #ccc", borderRadius: "5px", width: "35%", margin: "0 auto", backgroundColor: "#63d676ff" }}>
         
